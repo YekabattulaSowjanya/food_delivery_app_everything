@@ -21,3 +21,6 @@ samples, guidance on mobile development, and a full API reference.
 ![Screenshot 2024-05-31 152413](https://github.com/YekabattulaSowjanya/food_delivery_app_everything/assets/109911567/1596fc24-d97a-476c-a8c7-c6a137347ae3)
 ![Screenshot 2024-05-31 152433](https://github.com/YekabattulaSowjanya/food_delivery_app_everything/assets/109911567/adfff1e9-b359-48e8-84cd-0b938034e655)
 ![Screenshot 2024-05-31 152452](https://github.com/YekabattulaSowjanya/food_delivery_app_everything/assets/109911567/c47adf98-259e-40ee-9642-31a4ba12bfb5)
+![Screenshot 2024-05-31 152514](https://github.com/YekabattulaSowjanya/food_delivery_app_everything/assets/109911567/47971cc4-9762-44eb-aa8d-3c1c65f4580e)
+![Screenshot 2024-05-31 152530](https://github.com/YekabattulaSowjanya/food_delivery_app_everything/assets/109911567/87eff288-f75c-4095-bc64-1bcf1ff5534e)
+![Screenshot 2024-05-31 152838](https://github.com/YekabattulaSowjanya/food_delivery_app_everything/assets/109911567/ac3f045b-9f32-4be6-9661-899797d5665a)
